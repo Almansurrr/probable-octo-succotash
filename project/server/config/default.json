@@ -1,0 +1,4 @@
+{
+    "serverPort": 5000 ,
+    "dbUrl":"mongodb+srv://Almansur:<password>@cloud.mpxzvy6.mongodb.net/?retryWrites=true&w=majority"
+}
